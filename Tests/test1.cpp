@@ -1,0 +1,6 @@
+#include namespace std;
+
+main()
+{
+  
+}
